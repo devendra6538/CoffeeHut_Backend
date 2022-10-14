@@ -1,0 +1,1 @@
+new payment option = Coffeehut_wallet
